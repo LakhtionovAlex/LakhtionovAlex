@@ -13,3 +13,35 @@
   HELO
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
+
+### :man_technologist: About Me :
+
+---
+
+I am a QA Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
+
+- :telescope: I study testing and I want to grow in this direction.
+
+- :seedling: Learning test automation.
+
+- :zap: In my free time, I read books on testing and DevOps.
+Doing sports.
+
+- :mailbox:How to reach me: [![Telegram Badge](https://img.shields.io/badge/-LakhtionovAlex-blue?style=flat&logo=Telegram&logoColor=white)](@lakhti0n0v)
+
+---
+
+### :hammer_and_wrench: Languages and Tools :
+![Python](https://img.shields.io/badge/Python-F7DF1E?style=for-the-badge&logo=python&logoColor=black)
+![Python](https://img.shields.io/badge/Selenium-F7DF1?style=for-the-badge&logo=selenium&logoColor=white)
+![Python](https://img.shields.io/badge/Postman-FF8C00?style=for-the-badge&logo=postman&logoColor=white)
+![Python](https://img.shields.io/badge/YouTrack-00BFFF?style=for-the-badge&logo=youtrack&logoColor=black)
+![Python](https://img.shields.io/badge/Git-white?style=for-the-badge&logo=git&logoColor=black)
+![Python](https://img.shields.io/badge/Pytest-white?style=for-the-badge&logo=pytest&logoColor)
+
+---
+
+### :fire: My Stats :
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=LakhtionovAlex&theme=gotham&hide_border=true&border_radius=6&mode=weekly)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LakhtionovAlex&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
