@@ -27,7 +27,7 @@ I am a QA Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/gi
 - :zap: In my free time, I read books on testing and DevOps.
 Doing sports.
 
-- :mailbox:How to reach me: [![Telegram Badge](https://img.shields.io/badge/-LakhtionovAlex-blue?style=flat&logo=Telegram&logoColor=white)](@lakhti0n0v)
+- :mailbox:How to reach me: [![Telegram Badge](https://img.shields.io/badge/-LakhtionovAlex-blue?style=flat&logo=Telegram&logoColor=white)](lakhti0n0v)
 
 ---
 
